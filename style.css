@@ -1,0 +1,62 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+header
+{  height: 150px;
+    background-color: rgba(59,89,152);
+    width: max-content;
+    margin-top: 30px;
+    display: flex;
+    color: white;
+
+}
+body
+{
+    background-color: rgba(#fff, #d3d8e8);
+    padding: 0;
+    margin: 0;
+}
+.book{
+    font-size: 38px;
+    position: absolute;
+    left: 100px;
+    color: #fff;
+    top: 3.5%;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.log
+{   display: flex;
+   float: right;
+    color: #fff;
+    font-size: 13px;
+    margin-top: 12px;
+    margin-right: 200px;
+    padding-left: 1000px;
+}
+.btn{
+    background-color: #4267b2;
+    height: 22px;
+    color: #fff;
+    border: 1px solid darkblue;
+    border-radius: 2px;
+    font-weight: bold;
+}
+aside{
+    float: right;
+}
+.sign{
+    background-color: green;
+    color: #fff;
+    border-radius: 3px;
+    border: 1px solid darkgreen;
+    font-weight: bold;
+    width: 100px;
+}
+img{
+    display: block;
+    width: 100px;
+}
+
